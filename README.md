@@ -1,6 +1,8 @@
 🌐 Atividade 01 — Plataforma Web para ONGs (HTML)
 🧭 Visão Geral da Atividade
 
+***LINK DA PAGINA*** : https://emelybarbosa813-ctrl.github.io/Atividade01outubro/
+
 Esta atividade tem como objetivo criar a estrutura base de uma plataforma web para ONGs utilizando apenas HTML.
 O foco é organizar o conteúdo e a hierarquia das páginas, sem aplicar estilos (CSS) ou funcionalidades dinâmicas (JavaScript).
 
@@ -22,7 +24,10 @@ Lista de projetos sociais com título, descrição e status.
 
 Galeria de imagens (utilizando a tag <img>).
 
-Estrutura de categorias usando listas <ul> e <li>.
+Estrutura de categorias usando listas 
+
+
+---
 
 3. voluntarios.html – Engajamento de Voluntários
 
